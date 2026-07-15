@@ -8,7 +8,7 @@
 Building production-minded software across security, quantitative systems, and the web.
 
 <p>
-  <a href="https://santiagorivera.com">
+  <a href="https://santiagorivera.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/santiagoxriv/">
